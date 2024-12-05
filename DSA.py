@@ -62,11 +62,6 @@ class DoublyLinkedList:
             current = current.next
 
 dll = DoublyLinkedList()
-dll.add(10)
-dll.add(5)
-dll.add(1)
-dll.add(20)
-dll.add(3)
-dll.display()
+
  
 dll.search( "True", 20)
